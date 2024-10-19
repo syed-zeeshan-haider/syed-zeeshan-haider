@@ -1,5 +1,5 @@
 <!--First Heading-->
-<h1 align="center">Hi, I'm Syed Zeeshan Haider <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Zeeshan Syed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--Typing-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WordPress+Developer;SEO+Expert;Cloud+Native+AI+Engineer;Custom+GPTs+%7C+AI+Systems+Builder;Always%20Learning%20New%20Things&center=true&width=500&height=50"></a>
@@ -21,7 +21,7 @@
 
 - 🤝 I’m open to freelance projects on **Fiverr & Upwork**
 
-- 👨‍💻 All of my projects are available [@yourusername](github.com/syed-zeeshan-haider)
+- 👨‍💻 All of my projects are available [@yourusername](https://github.com/syed-zeeshan-haider)
 
 - 💬 Ask me about **Web Development, SEO, Python, and AI**
 
@@ -96,13 +96,13 @@
 <h3 align="left">Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thezeesyed" target="_blank">
+  <a href="https://linkedin.com/in/thezeesyed" target="_blank">
     <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/TheZeeSyed" target="_blank">
+  <a href="https://x.com/thezeesyed" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/thezeesyed/" target="_blank">
+  <a href="https://instagram.com/thezeesyed" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -114,4 +114,4 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:zeeseo12@gmail.com?subject=Hello%20from%20GitHub" target="_blank">
-    <img src="https://img.shields
+    <img src="https://img.shields.io/badge/Gmail-BB001B.svg?style=for-the-badge
