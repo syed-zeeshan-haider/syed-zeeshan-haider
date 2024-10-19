@@ -1,5 +1,5 @@
 <!--First Heading-->
-<h1 align="center">Hi, I'm [Your Name] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Syed Zeeshan Haider <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--Typing-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WordPress+Developer;SEO+Expert;Cloud+Native+AI+Engineer;Custom+GPTs+%7C+AI+Systems+Builder;Always%20Learning%20New%20Things&center=true&width=500&height=50"></a>
